@@ -11,8 +11,6 @@ Long questions, slow answers — all set down on paper; and once spoken, done.
 
 </div>
 
-A locally running agent, a product you run yourself. Give it a working directory and it gets to work: read code, edit files, run commands, drive a browser — then come back and tell you how it went. Zero dependencies. Source in [Master-Norna/yan](https://github.com/Master-Norna/yan).
-
 ![Yan · in use](https://raw.githubusercontent.com/Master-Norna/yan/main/assets/yan-home.png)
 
 <div align="center"><sub>Written at the start of winter, November 2026</sub></div>
