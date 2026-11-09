@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Master-Norna/yan/main/icon.svg" width="96" height="96" alt="一笔言">
+<img src="https://raw.githubusercontent.com/Master-Norna/yan/main/web/icon.svg" width="96" height="96" alt="一笔言">
 
 <h1>言</h1>
 

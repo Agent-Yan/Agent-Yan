@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Master-Norna/yan/main/icon.svg" width="96" height="96" alt="Yan">
+<img src="https://raw.githubusercontent.com/Master-Norna/yan/main/web/icon.svg" width="96" height="96" alt="Yan">
 
 <h1>Yan</h1>
 
